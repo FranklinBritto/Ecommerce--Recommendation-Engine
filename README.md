@@ -10,3 +10,6 @@ A content-based recommendation engine looks at product descriptions to find item
 
 Collaborative Filtering:
 A collaborative filtering recommendation engine suggests products based on customer ratings. It identifies patterns in user preferences and recommends items liked by similar users.
+
+Testing the Recommendation System:
+Tesing the recommendation using the random Product ID using Sample function
